@@ -1,0 +1,26 @@
+.sans{
+    text-align: right;
+    font-family: sans-serif;
+}
+.autor{
+    text-align: center;
+    font-size: 10px;
+}
+.letraTomate{
+    color: tomato;
+}
+.letraVerde{
+    color: darkgreen;
+    background-color:lightyellow;
+    font-style: italic;
+}
+.letraNaranja{
+    color: darkorange;
+}
+body{
+    background-color: lightblue;
+}
+h2{
+    font-family: monospace;
+    font-size: 30px;
+}

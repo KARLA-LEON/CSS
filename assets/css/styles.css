@@ -1,0 +1,41 @@
+/*Este es un selector de clases, a diferencia del primero que se creo con h1 que era selector de etiqueta, son más utilzados, además de que son reutilizables*/
+.encabezado{
+    /*Tamaño de fuente, pueden ser pixeles, porcentajes, em, rm o tmabién cm, pulgadas aunque estos dos ultimos no se usan*/
+    font-size: 72px;
+    /*Color de fuente, darle ctrl+espacio da la lista de colores*/
+    color: rgb(72, 138, 138);
+    /* Para poner color de fondo, eso es color en hexadecimal "ff0000 o en hsl*/
+    background-color: #3c4c83;
+    /*Alinear texto*/
+    text-align: center;
+    text-transform: capitalize;
+}
+
+body{
+    background-color: rgb(180, 212, 241);
+}
+#texto{
+    color: blue;
+    background-color: red;
+    font-size: 24px;
+    font-style: italic;
+}
+.texto{
+    color: white;
+    background-color: black;
+}
+p{
+    color: white;
+    background-color: dimgray;
+
+}
+p{
+    color: goldenrod;
+    background-color: teal;
+}
+/*
+Especificidad de selectores:
+Prioridad 1= selectores de etiqueta
+Prioridad 10= selectores de clases
+Prioridad 100= selectores de identificador "id"
+Prioridad 1000= selectores de estilo en linea*/

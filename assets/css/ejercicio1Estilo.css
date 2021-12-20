@@ -1,0 +1,25 @@
+.titulo{
+    color: black;
+}
+
+.altavozCielo{
+    color: skyblue;
+    font-style: italic;
+}
+
+.golondrinasAmarillo{
+    color: tan;
+
+}
+
+.escritorOro{
+    color: darkgoldenrod;
+}
+
+.ceroRojo{
+    color: red;
+}
+
+body{
+    background-color: seagreen;
+}
