@@ -1,0 +1,52 @@
+body{
+    background-color: seagreen;
+}
+.title{
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+.blanco{
+    background-color: white;
+    border: solid black 5px;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    color: black;
+    margin-left: 300px;
+   margin-right: 300px;
+
+}
+.marron{
+    background-color: sienna;
+    border: solid brown 10px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding: 10px;
+    color: white;
+    margin-right: 700px;
+    text-align: left;
+
+}
+.amarillo{
+    background-color: goldenrod;
+    border: solid darkgoldenrod 10px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding: 10px;
+    color: white;
+    margin-left: 700px;
+    text-align: right;
+
+
+}
+.azul{
+    background-color: blue;
+    border: dashed lightskyblue 3px;
+    padding: 10px;
+    color: white;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+
+}

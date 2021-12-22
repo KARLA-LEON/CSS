@@ -1,0 +1,35 @@
+body{
+   /* background-image: url(https://images.unsplash.com/photo-1516959512470-53955cd40f40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI0fHxwaW5rJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60);*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+}
+
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*Le dice al navegador las fuentes alternativas a instalar en caso de que no tenga una fuente instalada en su sistema, por ejemplo, sans-serif está por defecto en todos los sistemas operativos*/
+.subtitle{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.caja{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    /*margin es por fuera del elemento y padding es por dentro del elemento*/
+    padding: 20px;
+    border-radius: 360px;
+}
+.rojo{
+    /*background-color: red;*/
+    border: 5px solid red;
+}
+.verde{
+    /*background-color: green;*/
+    border: 5px solid blue;
+}
+.azul{
+    /*background-color: blue;*/
+    border: 5px solid green;
+}
