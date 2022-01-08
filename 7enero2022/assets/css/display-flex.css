@@ -1,0 +1,39 @@
+body{
+    background-color: lightgray;
+}
+
+.contenedor{
+    display: flex;
+    height: 600px;
+    border: 5px solid purple;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    
+}
+
+.caja {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    
+
+}
+
+.rojo{
+    background-color: rgb(252, 38, 38);
+}
+
+.azul{
+    background-color: royalblue;
+    /*align-self: flex-end;*/
+}
+
+.verde{
+    background-color: rgb(24, 155, 12);
+    /*align-self: center;*/
+}
+
+.amarillo{
+    background-color: rgb(250, 213, 49);
+}

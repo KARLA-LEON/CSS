@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    background-color: rgb(245, 202, 239);
+    height: 50px;
+    
+
+}
+
+.menu ul{
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.elemento{
+    display: inline;
+    margin: 0 20px;
+}
+
+/*.menu .elemento:hover{
+    background-color: cornsilk;
+}*/
+
+.elemento a{
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+    line-height: 50px;
+    font-family: 'Oooh Baby', cursive;
+    font-family: 'Rubik', sans-serif;
+    transition: color 0.3s;
+
+}
+
+.elemento a:hover{
+    color: cornflowerblue;
+
+}

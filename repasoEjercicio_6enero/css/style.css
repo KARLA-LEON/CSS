@@ -1,0 +1,46 @@
+body{
+    background-color: gainsboro;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+h4{
+    background-color: gray;
+    color: honeydew;
+    padding: 10px 5px;
+    
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    text-indent: 1rem;
+    margin: 0 40px;
+}
+
+.rojo{
+    color: red;
+    font-style: italic;
+}
+
+.blanco{
+    background-color: seashell;
+    color: black;
+    font-weight: bold;
+}
+
+.logo{
+    width: 70px;
+
+}
+
+.text{
+    font-size: x-small;
+    text-align: justify;
+  
+}
